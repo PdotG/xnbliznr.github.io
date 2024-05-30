@@ -2,29 +2,30 @@
 ---
 
 :root {
-    --color-background: #f4f9f4; /* Fondo claro */
-    --theme1-light: #e9f5e9; /* Verde claro */
-    --theme1-medium: #b3e2b3; /* Verde medio */
-    --theme1-dim: #8bcc8b; /* Verde más oscuro */
-    --theme1-dark: #66b566; /* Verde oscuro */
+    --color-background: #f4f9f4; 
+    --theme1-light: #e9f5e9; 
+    --theme1-medium: #b3e2b3; 
+    --theme1-dim: #8bcc8b; 
+    --theme1-dark: #66b566; 
 
-    --theme2-light: #fff3e4; /* Naranja claro */
-    --theme2-medium: #ffd4a3; /* Naranja medio */
-    --theme2-dim: #ffb56d; /* Naranja más oscuro */
-    --theme2-dark: #ff9940; /* Naranja oscuro */
+    --theme2-light: #f6f7d7; 
+    --theme2-medium: #e3e49b; 
+    --theme2-dim: #c7c675;
+    --theme2-dark: #a1a34d; 
 
-    --theme3-light: #e4f7ff; /* Azul claro */
-    --theme3-medium: #a3e0ff; /* Azul medio */
-    --theme3-dim: #6dc5ff; /* Azul más oscuro */
-    --theme3-dark: #40afff; /* Azul oscuro */
+    --theme3-light: #fffef5; 
+    --theme3-medium: #e8e8e8;
+    --theme3-dim: #bdbdbd; 
+    --theme3-dark: #a8a8a8; 
 
-    --theme4-light: #f4e9ff; /* Púrpura claro */
-    --theme4-medium: #d4a3ff; /* Púrpura medio */
-    --theme4-dim: #b56dff; /* Púrpura más oscuro */
-    --theme4-dark: #9940ff; /* Púrpura oscuro */
+    --theme4-light: #d7f7d7; 
+    --theme4-medium: #9fe79f;
+    --theme4-dim: #6cd76c;
+    --theme4-dark: #41c241; 
 
-    --font-dark: #202424; /* Fuente oscura */
+    --font-dark: #202424;
 }
+
 
 html, body {
     margin:0;
