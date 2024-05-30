@@ -1,21 +1,22 @@
-subject: Projects
+subject: Proyectos
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "ChatGPT-Tostador ([https://chat.tostador.com/](https://chat.openai.com/))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Chatbot desarrollado basado en un modelo de lenguaje gigante
+      - Diseñado algoritmo generativo para crear contenido novedoso y humanoide
+      - "Tecnologías Utilizadas: Rust, Typescript, Python, Ruby"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
+      - Interfaz de Línea de Comandos Universal para los Servicios Web de Amazin
+      - Desarrollado un esquema para facilitar la autenticación de usuarios sin necesidad de recordar sus credenciales
+      - "Tecnologías Utilizadas: Typescript, Python, Go"
     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  - title: "PiTorta ([https://pitorch.org/](https://pytorch.org/))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
+      - Biblioteca de aprendizaje automático para aplicaciones como visión por computadora y procesamiento de lenguaje natural
+      - "Tecnologías Utilizadas: Python, Cuda, Objective-C++"
     image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+

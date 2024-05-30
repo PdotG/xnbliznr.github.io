@@ -1,18 +1,22 @@
-subject: Education
+subject: Educación
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Universidad Galáctica, Doctorado en Tecnología Alienígena
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Descubrimiento de un método para traducir jeroglíficos marcianos a código binario
+      - Desarrollo de un protocolo de comunicación intergaláctica para aprendizaje de pocos disparos entre planetas
+    date: Abr. 2025 - Dic. 2029
+  - title: Colegio Hogwarts de Magia y Hechicería, Maestría en Computación Mágica
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Creación de algoritmos de aprendizaje profundo para predecir el resultado de los partidos de Quidditch
+      - Optimización de la eficiencia en el lanzamiento de hechizos para la equidad en duelos mágicos
+    grade: "**GPA**: `4.5/4.5`"
+    date: Sep. 2018 - Jun. 2022
+  - title: Academia de Memes, Licenciatura en Memes de Internet y Tendencias Virales
+    description:
+      - Investigación sobre el impacto de los memes virales en el tráfico global de Internet
+      - Desarrollo de algoritmos para predecir el próximo meme viral
+    grade: "**GPA**: `4.0/4.0`"
+    date: Ene. 2013 - Dic. 2016
+

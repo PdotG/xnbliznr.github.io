@@ -1,22 +1,23 @@
-subject: Experiences
+subject: Experiencias
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Microhard
+    role: Gerente de Proyectos
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Lideró el desarrollo de un nuevo software de chatbot utilizando un modelo de lenguaje gigante
+      - Co-diseñador de '*Kopiloto*' y '*Geminiano*'
+    date: Ene. 2024 - Presente
+  - title: Amazin
+    role: Ingeniero de Software Senior
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Construyó un microservicio en Java y el esquema de base de datos para gestionar cuentas de clientes
+      - Mejoró las tuberías internas para consultar datos en tiempo real desde dispositivos de clientes
+    date: Abr. 2016 - Dic. 2018
+  - title: Caralibro
+    role: Pasante de Ingeniería de Software
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
+      - Diseñó el sitio web dinámico usando React para la visualización de datos
+      - Integró '*Yolanda*' para aumentar la precisión de la detección de objetos
     date: Jul. 2013 - Sep. 2013
+
